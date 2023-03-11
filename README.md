@@ -42,3 +42,11 @@ printf()
 
 *斜體*
 
+#http用法:換行
+gfgf<br>ffd  
+
+
+<hr> gbgb    #http用法:加橫線
+
+
+
