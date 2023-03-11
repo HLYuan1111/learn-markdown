@@ -30,6 +30,15 @@ printf()
  [chromosome](https://i.imgur.com/a9bZHZz.jpg)
 
 
+#Table
+|index1|index2|
+|------|------|
+|A1    |Y     |
+|long  |short |
 
 
+
+**粗體**
+
+*斜體*
 
